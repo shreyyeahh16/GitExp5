@@ -1,3 +1,7 @@
+HEAD
 Initial content
 Remote change 1
 Remote change 2
+
+Local change 2
+c343b7d (Local update 2)
